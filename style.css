@@ -1,0 +1,23 @@
+h1{
+    color :#9e2a2b;
+text-align:center ;
+}
+
+div{
+    background-color:#d5bdaf ;
+    
+}
+.card{
+    width:500px;
+    text-align: center;
+    background-color:#d5bdaf;
+}
+#dish-name{
+    color:white ;
+}
+#dish-name2{
+    color:#f28482;
+}
+#dish-name3{
+    color:#7f5539;
+}
